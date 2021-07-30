@@ -67,14 +67,14 @@ body {
 }
 
 .list {
-    position: absolute;
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     margin: 15vh 0 5vh;
-    width: 80%;
-    background-color: rgba(128, 128, 128, 0.6);
+    width: 75%;
+    border: 1px solid black;
     min-height: 80%;
 }
 
@@ -104,19 +104,19 @@ body {
     margin: 1vh 3vw 1vh 3vw;
     background: lightblue;
     background: rgba(0, 192, 0, 0.25);
-    transform: rotate(3deg);
+    transform: rotate(2deg);
 }
 
 .target:nth-child(5n) {
     margin: 1vh 5vw 1vh 1vw;
     background: rgba(255, 0, 0, 0.25);
-    transform: rotate(-5deg);
+    transform: rotate(-1deg);
 }
 
 .target:nth-child(7n) {
     margin: 1vh 3vw 1vh 7vw;
     background: rgba(96, 255, 255, 0.25);
-    transform: rotate(4deg);
+    transform: rotate(1deg);
 }
 
 .target:nth-child(11n) {
