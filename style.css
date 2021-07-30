@@ -72,9 +72,8 @@ body {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 15vh 4% 5vh;
+    margin: 15vh 4.75% 5vh;
     width: 90%;
-    border: 1px solid black;
     min-height: 80%;
 }
 
