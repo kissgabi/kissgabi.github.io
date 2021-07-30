@@ -90,38 +90,38 @@ body {
 .target:nth-child(odd) {
     margin: 1vh 1vw 1vh 2vw;
     background: rgba(224, 96, 192, 0.25);
-    transform: rotate(17deg);
+    transform: rotate(7deg);
 }
 
 .target:nth-child(even) {
     margin: 1vh 2vw 1vh 1vw;
     background: rgba(192, 192, 192, 0.25);
-    transform: rotate(-15deg);
+    transform: rotate(-5deg);
 }
 
 .target:nth-child(3n) {
     margin: 1vh 3vw 1vh 3vw;
     background: lightblue;
     background: rgba(0, 192, 0, 0.25);
-    transform: rotate(-30deg);
+    transform: rotate(13deg);
 }
 
 .target:nth-child(5n) {
     margin: 1vh 5vw 1vh 1vw;
     background: rgba(255, 0, 0, 0.25);
-    transform: rotate(20deg);
+    transform: rotate(-10deg);
 }
 
 .target:nth-child(7n) {
     margin: 1vh 3vw 1vh 7vw;
     background: rgba(96, 255, 255, 0.25);
-    transform: rotate(13deg);
+    transform: rotate(10deg);
 }
 
 .target:nth-child(11n) {
     margin: 1vh 11vw 1vh 11vw;
     background: rgba(255, 255, 0, 0.25);
-    transform: rotate(1deg);
+    transform: rotate(-1deg);
 }
 
 .play {
