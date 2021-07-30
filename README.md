@@ -1,3 +1,3 @@
-# weblap
+# kissgabi.github.io
 
-vulkánok.html és stilusok.css
+k.i.s.s.4.k.i.d.s
